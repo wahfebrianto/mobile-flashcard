@@ -7,7 +7,7 @@ MobileFlashcards is a simple react native application to manage your decks with 
 Clone the GitHub repository and use Yarn to install the depedencies.
 
 ```
-https://github.com/wahfebrianto/mobile-flashcards.git
+git clone https://github.com/wahfebrianto/mobile-flashcard.git
 cd mobile-flashcards
 yarn
 ```
