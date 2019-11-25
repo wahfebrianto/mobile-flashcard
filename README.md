@@ -8,7 +8,7 @@ Clone the GitHub repository and use Yarn to install the depedencies.
 
 ```
 git clone https://github.com/wahfebrianto/mobile-flashcard.git
-cd mobile-flashcards
+cd mobile-flashcard
 yarn
 ```
 
